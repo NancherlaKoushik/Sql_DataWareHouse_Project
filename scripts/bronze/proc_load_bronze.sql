@@ -1,4 +1,3 @@
-
 create or alter procedure bronze.load_bronze as
 begin
 	declare @start_time datetime , @end_time datetime , @batch_start_time datetime, @batch_end_time datetime;
