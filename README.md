@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/NancherlaKoushik/Sql_DataWareHouse_Project)
 # Sql_DataWareHouse_Project
 
 
@@ -107,9 +108,6 @@ data-warehouse-project/
 
 
 ## 🛡️ License
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/NancherlaKoushik/Sql_DataWareHouse_Project)
-
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 
